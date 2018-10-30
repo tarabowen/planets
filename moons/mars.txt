@@ -1,4 +1,3 @@
 Cold and dry and very empty.
 It's very empty indeed.
 Maybe I should start with Venus.
-testing of git revert command.
